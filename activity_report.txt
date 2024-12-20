@@ -1,0 +1,9 @@
+User Activity Analysis:
+Total number of activities: 8
+Number of unique users: 4
+Most active user: user1
+Activity by day:
+  (2024, 12, 20): 3
+  (2024, 12, 21): 1
+  (2024, 12, 22): 3
+  (2024, 12, 23): 1
